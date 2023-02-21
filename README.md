@@ -43,7 +43,7 @@ Verificar a cada período de tempo se o valor do produto baixou conforme desejad
 - [x] Adicionar ao gerenciador de tarefas do computador
 
 ## Backlog
-- [ ] Mais de um produto
+- [ ] Monitorar mais de um produto
 - [ ] Em diferentes lojas
 
 ## Gerar executável
