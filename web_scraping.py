@@ -32,12 +32,15 @@ def monitoramento(EnviarEmail: bool):
     mensagem += URL
 
     if EnviarEmail == True:
-        if (num_price < 9000):
+        if (num_price < 8000):
             email.send_email(destinatario=security.username_email,
-                             assunto=title, mensagem=mensagem)
+                             assunto='IMPORTANTE! - ' + title, mensagem=mensagem)
+        else:
+            email.send_email(destinatario=security.username_email,
+                             assunto='SEM NOVIDADES! - ' + title, mensagem=mensagem)
     else:
         print("Não foi permitido enviar o e-mail.")
 
 
 if __name__ == '__main__':
-    monitoramento(EnviarEmail=False)
+    monitoramento(EnviarEmail=True)
