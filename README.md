@@ -16,12 +16,12 @@ Verificar a cada período de tempo se o valor do produto baixou conforme desejad
 
 > Por questões de segurança o Google já não permite mais o envio do e-mail utilizando apenas o usuário e a senha, para poder implementar o envio de e-mail na automatização será preciso utilizar a senha de app. Para isso, siga os seguintes passos:
 
-- Acessa o e-mail
-- Vá até ```Manage your Google Account```
-- Clica em ```Security```
+- Acessar o e-mail
+- Ir até ```Manage your Google Account```
+- Clicar em ```Security```
 - Em **Signing in to Google** você irá encontrar a opção ```App passwords```
-- Seleciona ou dê um nome ```E-mail```
-- Seleciona o dispositivo ```Computador Windows```
+- Selecionar ```E-mail```
+- Selecionar o dispositivo ```Computador Windows```
 
 > Se a opção ```App passwords``` não estiver aparecendo é porque você precisa ainda ativar à autenticação de dois fatores.
 
