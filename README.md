@@ -5,8 +5,7 @@ Verificar a cada período de tempo se o valor do produto baixou conforme desejad
 ![image](https://user-images.githubusercontent.com/22162514/220414443-067716f1-bba2-4ab5-9f15-4009666ad775.png)
 
 #### Como irá receber o e-mail:
-![image](https://user-images.githubusercontent.com/22162514/220415595-a006a738-9cc4-429b-83fb-38cc695ee135.png)
-
+![image](https://user-images.githubusercontent.com/22162514/220524642-16b6e836-46fe-4f1d-9ddd-f565edba96a5.png)
 
 ## Parâmetros
 
