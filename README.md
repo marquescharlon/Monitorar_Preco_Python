@@ -1,7 +1,8 @@
 # Monitorar Preço usando Python
-Verificar a cada período de tempo se o valor do produto baixou conforme desejado e ser notificado via e-mail.
+Verificar a cada período de tempo se o valor do produto baixou conforme desejado e ser notificado via e-mail. Por exemplo, será notificado caso o produto chegue a custar menos que oito mil reais.
 
 #### Produto monitorado:
+
 ![image](https://user-images.githubusercontent.com/22162514/220414443-067716f1-bba2-4ab5-9f15-4009666ad775.png)
 
 #### Como irá receber o e-mail:
