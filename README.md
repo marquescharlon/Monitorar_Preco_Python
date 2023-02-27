@@ -2,8 +2,7 @@
 Verificar a cada período de tempo se o valor do produto baixou conforme desejado e ser notificado via e-mail. Por exemplo, será notificado caso o produto chegue a custar menos que oito mil reais.
 
 #### Produto monitorado:
-
-![image](https://user-images.githubusercontent.com/22162514/220414443-067716f1-bba2-4ab5-9f15-4009666ad775.png)
+![image](https://user-images.githubusercontent.com/22162514/221469212-481ab040-051e-4d64-8609-443ca0e986e9.png)
 
 #### Como irá receber o e-mail:
 ![image](https://user-images.githubusercontent.com/22162514/221457371-25d8a5d9-b793-4de8-8926-84028f479513.png)
