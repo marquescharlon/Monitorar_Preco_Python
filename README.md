@@ -46,6 +46,7 @@ Verificar a cada período de tempo se o valor do produto baixou conforme desejad
 ## Backlog
 - [ ] Monitorar mais de um produto
 - [ ] Em diferentes lojas
+- [ ] Comunicação via WhatsApp
 
 ## Gerar executável
 
